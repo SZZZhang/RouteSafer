@@ -1,6 +1,6 @@
 # RouteSafer
 
-Developed in collaboration with: Shane Ding, Tanvir Duggal, Shirley Zhang for Hack the 6ix 2019, winner of best overall hack and best insurance hack.
+Developed in collaboration with: Shane Ding, Tanvir Duggal, Hanz Vora for Hack the 6ix 2019, winner of best overall hack and best insurance hack.
 
 ## Demo
 https://youtu.be/zO_2NxpAYOk
